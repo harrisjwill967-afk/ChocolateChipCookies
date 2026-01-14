@@ -1,0 +1,53 @@
+body {
+
+    background-color: powderblue;
+    
+}
+h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 300%;
+    display: inline-block;
+    margin: 50px;
+    border: 10px solid rgb(221, 176, 230);
+    padding: 30px;
+}
+p {
+    color:goldenrod ;
+    font-family: verdana;
+    font-size: 200%;
+    margin: 20px;
+    padding: 5px;
+}
+li {
+    color:black;
+    font-family: Verdana;
+    font-size:125% ;
+
+}
+h2 {
+    color: black;
+    font-family: verdana;
+    font-size: 300%;
+    display: inline-block;
+    margin: 50px;
+    border: 10px solid goldenrod;
+    padding: 30px;
+}
+p2 
+{
+    color:sienna ;
+    font-family: verdana;
+    font-size: 150%;
+    margin: 20px;
+    padding: 5px;
+}
+h3 {
+    color: slateblue;
+    font-family: verdana;
+    font-size: 300%;
+    display: inline-block;
+    margin: 50px;
+    border: 10px solid goldenrod;
+    padding: 30px;
+}
